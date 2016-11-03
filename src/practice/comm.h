@@ -9,6 +9,7 @@
 #include <set>
 #include <algorithm>
 #include <iterator>
+#include <stack>
 
 #include <stdio.h>
 #include <stdlib.h>
